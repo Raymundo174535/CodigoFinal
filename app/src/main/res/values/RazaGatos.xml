@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Raza_Gatos">
+        <item>Absinio</item>
+        <item>Americano de pelo duro</item>
+        <item>Asiatico</item>
+        <item>Balines</item>
+        <item>Birbano</item>
+        <item>Bombai</item>
+    </string-array>
+</resources>

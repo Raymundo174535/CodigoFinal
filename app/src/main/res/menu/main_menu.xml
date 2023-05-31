@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/baseline_home_24"
+            android:title="Inicio"/>
+        <item
+            android:id="@+id/cuenta"
+            android:icon="@drawable/baseline_person_24"
+            android:title="Cuenta"/>
+        <item
+            android:id="@+id/crear"
+            android:icon="@drawable/baseline_assignment_24"
+            android:title="Crear Reportes"/>
+        <item
+            android:id="@+id/reportes"
+            android:icon="@drawable/baseline_folder_24"
+            android:title="Mis Reportes"/>
+        <item
+            android:id="@+id/salir"
+            android:icon="@drawable/baseline_logout_24"
+            android:title="Cerrar Sesion"/>
+    </group>
+</menu>

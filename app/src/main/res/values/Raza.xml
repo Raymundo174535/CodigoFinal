@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Raza">
+        <item>Labrador</item>
+        <item>Chihuahua</item>
+        <item>Pastor ALeman</item>
+        <item>FrenchPoodle</item>
+        <item>San Bernardo</item>
+        <item>Beagle</item>
+        <item>Birbano</item>
+        <item>Bombai</item>
+        <item>Siames</item>
+        <item>Mestizo</item>
+        <item>Comun</item>
+    </string-array>
+
+</resources>
